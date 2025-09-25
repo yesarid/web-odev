@@ -1,6 +1,6 @@
 # Doğu - Kişisel Blog
 
-Canlı site: https://yesarid.github.io/personal-blog
+Canlı site: [https://yesarid.github.io/personal-blog](https://yesarid.github.io/web-odev/)
 
 Bu repo, 2025 Web Teknolojileri ve Programlama dersi için ödev olarak hazırlanmıştır.  
 Site HTML, CSS ve JS kullanılarak oluşturulmuştur.  
